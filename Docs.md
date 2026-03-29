@@ -44,9 +44,7 @@
 
 Click the link below to invite ChaosController to your server:
 
-[![Invite ChaosController](https://img.shields.io/badge/Invite-ChaosController-blue)](https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=8&scope=bot%20applications.commands)
-
-*Replace `YOUR_CLIENT_ID` with your actual bot client ID.*
+[![Invite ChaosController](https://img.shields.io/badge/Invite-ChaosController-blue)](https://flourishing-gecko-376c6c.netlify.app)
 
 ### Required Permissions
 
@@ -129,9 +127,9 @@ ChaosController uses Discord's built-in permission system.
 
 ## 7. Support
 
-- **Support Server:** [Click Here](https://discord.gg/YOUR_SUPPORT_SERVER)
-- **Website:** [www.chaoscontroller.xyz](https://www.chaoscontroller.xyz)
-- **Report a Bug:** Please open an issue on our [GitHub Repository](https://github.com/YOUR_USERNAME/ChaosController/issues)
+- **Support Server:** [Click Here](https://discord.gg/3YyGk2KKp9)
+- **Website:** [flourishing-gecko-376c6c.netlify.app](https://flourishing-gecko-376c6c.netlify.app)
+- **Report a Bug:** Please report any bugs in our [Support Server](https://discord.gg/3YyGk2KKp9) by opening a ticket.
 
 ---
 
